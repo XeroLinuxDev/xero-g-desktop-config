@@ -1,5 +1,5 @@
 # Maintainer: DarkXero <info@techxero.com>
-pkgname=xero-g-config
+pkgname=desktop-config-gnome
 _pkgname=xero-g-desktop-config
 _destname1="/etc"
 pkgver=1.0
