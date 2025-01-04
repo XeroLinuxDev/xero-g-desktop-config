@@ -1,0 +1,5 @@
+theme = Blue Matrix
+window-height = 32
+window-width = 110
+background-opacity = 0.75
+background-blur-radius = 60
