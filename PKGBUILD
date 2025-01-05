@@ -2,8 +2,8 @@
 pkgname=desktop-config-gnome
 _pkgname=xero-g-desktop-config
 _destname1="/etc"
-pkgver=1.1
-pkgrel=3
+pkgver=1.2
+pkgrel=1
 pkgdesc="Desktop Config for XeroG"
 arch=('any')
 url="https://github.com/XeroLinuxDev"
