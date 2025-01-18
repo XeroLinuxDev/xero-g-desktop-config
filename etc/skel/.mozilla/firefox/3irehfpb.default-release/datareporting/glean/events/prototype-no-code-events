@@ -1,0 +1,4 @@
+{"timestamp":673589,"category":"browser.usage","name":"interaction","extra":{"widget_id":"PanelUI-menu-button","flow_id":"{ed477fcd-4391-45f3-af31-1c50f3682602}","source":"nav-bar","glean_timestamp":"1737207331379"},"execution_counter":1}
+{"timestamp":678137,"category":"browser.usage","name":"interaction","extra":{"source":"app-menu","widget_id":"appMenu-bookmarks-button","glean_timestamp":"1737207335927","flow_id":"{ed477fcd-4391-45f3-af31-1c50f3682602}"},"execution_counter":1}
+{"timestamp":684611,"category":"browser.usage","name":"interaction","extra":{"flow_id":"{ed477fcd-4391-45f3-af31-1c50f3682602}","source":"app-menu","widget_id":"panelMenu-showAllBookmarks","glean_timestamp":"1737207342401"},"execution_counter":1}
+{"timestamp":702147,"category":"browser.usage","name":"interaction","extra":{"source":"tabs-bar","widget_id":"cmd-closeWindow","flow_id":"{ed477fcd-4391-45f3-af31-1c50f3682602}","glean_timestamp":"1737207359937"},"execution_counter":1}
