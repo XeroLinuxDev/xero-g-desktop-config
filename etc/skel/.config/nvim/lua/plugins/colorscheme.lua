@@ -1,8 +1,8 @@
 return 
 	{
-        "EdenEast/nightfox.nvim",
+        "Mofiqul/dracula.nvim",
         config = function()
-           vim.cmd.colorscheme("nightfox")
+           vim.cmd.colorscheme("dracula")
         end,
     }	
  
